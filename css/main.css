@@ -80,7 +80,7 @@ img {
   }
 
   .photo:nth-child(5) {
-    width: 33.3333%;
+    width: none;
   }
 
 }
