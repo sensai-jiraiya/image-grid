@@ -12,3 +12,8 @@ html {
   text-size-adjust: 100%;
   box-sizing: border-box;
   font: normal 100%/1.3 sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
