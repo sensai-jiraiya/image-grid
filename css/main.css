@@ -67,7 +67,7 @@ img {
 
 @media only screen and (min-width: 38em) {
 
-  .photo:nth-child(2){
+  .photo:nth-child(2) {
     width: 33.3333%;
   }
 
@@ -81,6 +81,14 @@ img {
 
   .photo:nth-child(5) {
     display: none;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .photo:nth-child(5) {
+    width: 66.6666%;
   }
 
 }
