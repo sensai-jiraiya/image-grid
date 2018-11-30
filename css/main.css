@@ -88,7 +88,7 @@ img {
 @media only screen and (min-width: 60em) {
 
   .photo:nth-child(5) {
-    width: 66.6666%;
+    width: 33.3333%;
     display: inline-block;
   }
 
