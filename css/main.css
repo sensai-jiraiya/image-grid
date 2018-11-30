@@ -92,4 +92,7 @@ img {
     display: inline-block;
   }
 
+  .photo:nth-child(1) {
+    width: 66.6666%;
+  }
 }
