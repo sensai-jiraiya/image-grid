@@ -89,6 +89,7 @@ img {
 
   .photo:nth-child(5) {
     width: 66.6666%;
+    display: inline-block;
   }
 
 }
